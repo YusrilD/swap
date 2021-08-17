@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822244188722",
+    "project_id": "starwarsapp-643d3",
+    "storage_bucket": "starwarsapp-643d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822244188722:android:e2b353ff5ec759a961122b",
+        "android_client_info": {
+          "package_name": "com.example.swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822244188722-4djslhro03hno6q5nthlri3p0nl1aean.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swap",
+            "certificate_hash": "332198b3a7569af288d4c6da3e4d6f323bbef433"
+          }
+        },
+        {
+          "client_id": "822244188722-bit2f5lqrgiheiit7ni5k19gr478e3fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6906PUGNrqlVIcu1Iw6VqMQpB4P_qaj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822244188722-bit2f5lqrgiheiit7ni5k19gr478e3fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
